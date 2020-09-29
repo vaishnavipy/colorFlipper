@@ -73,6 +73,7 @@ button{
     display: inline-block;
     letter-spacing: 3px;
     background-color:  #F1F5F8;
+    background: rgba(255,255,255,0);
     padding: 10px;
     font-size: 20px;
     outline: none;
